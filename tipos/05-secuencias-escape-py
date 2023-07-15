@@ -1,0 +1,7 @@
+# Secuencia de Escape
+#\"
+#\'
+#\\
+#\n
+curso = "Ultimate \nPython\""
+print (curso)
